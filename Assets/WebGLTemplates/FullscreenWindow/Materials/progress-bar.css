@@ -1,0 +1,70 @@
+* {
+   padding: 0;
+   margin: 0;
+}
+
+body {
+   background-color: rosybrown;
+}
+
+.container {
+   width: 70%;
+   position: absolute;
+   top: 90%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   text-align: center;
+   
+   padding: 20px;
+   
+}
+
+.container h1 {
+   margin-bottom: 20px;
+}
+
+.progress-bar {
+   position: relative;
+   width: 100%;
+   height: 30px;
+   margin-bottom: 20px;
+   background-color: #e2e2e2;
+   border-radius: 40px;
+}
+
+.progress-bar p {
+   position: absolute;
+   left: 50%;
+   top: 50%;
+   transform: translate(-50%, -50%);
+   z-index: 1;
+}
+
+.progress-bar .bar {
+   position: absolute;
+   border-radius: 40px;
+   height: 100%;
+   width: 0%;
+   background-color: #00D732;
+}
+
+.container button {
+   padding: 10px 15px;
+   background-color: #304ffe;
+   border: none;
+   border-radius: 40px;
+   color: white;
+   cursor: pointer;
+}
+
+.success {
+   color: green;
+   margin-bottom: 10px;
+}
+.loading-circle {
+   display: none;
+   position: absolute;
+   left: 50%;
+   top: 5%
+}
+

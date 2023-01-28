@@ -1,0 +1,1237 @@
+fileFormatVersion: 2
+guid: 3ad517c15a6656644987855e1261d96a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 53
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 48
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GreenBoss_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1338.3334
+        width: 450
+        height: 267.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e650e5f5a2bb34ea4d3564b53a56aa
+      internalID: 306448722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBoss_1
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1338.3334
+        width: 450
+        height: 267.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cda5c281b5b3d34eb586dfc9cc24090
+      internalID: 1677151167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBoss_2
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1338.3334
+        width: 450
+        height: 267.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee82bbf63e5e493488c7520604fa79a9
+      internalID: 1435317733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBoss_3
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1338.3334
+        width: 450
+        height: 267.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67819fe07c922047b019620921af338
+      internalID: -349697146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBoss_4
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1338.3334
+        width: 450
+        height: 267.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb1fd943634a7949933743281d00691
+      internalID: 1882309835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBoss_5
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1338.3334
+        width: 450
+        height: 267.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5852315c38072d54987a8b0acf7cfc7f
+      internalID: -1260798133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBoss_6
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1338.3334
+        width: 450
+        height: 267.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1c0e3ec858df7458124e68abdefd6e
+      internalID: -294187165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBoss_7
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 1338.3334
+        width: 450
+        height: 267.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f715168494fd68e4d97275e428974b5a
+      internalID: 11347489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBoss_8
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1338.3334
+        width: 450
+        height: 267.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c50024873e5ebf4d9b19c8176419cae
+      internalID: -1009600943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBoss_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1071.3334
+        width: 450
+        height: 267.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21ea0924f99d474da3d41e18e34da3d
+      internalID: 1390368451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBoss_10
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1071.3334
+        width: 450
+        height: 267.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa5531f0933adf4eaf60c3f011208ed
+      internalID: 1581018544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBoss_11
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1071.3334
+        width: 450
+        height: 267.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a571dee19675941a5537fd84f2814b
+      internalID: 442681915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBoss_12
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1071.3334
+        width: 450
+        height: 267.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a240ca499a061164f93db82a4bdc6e7f
+      internalID: -960505244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBoss_13
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1071.3334
+        width: 450
+        height: 267.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d71c664759e42e4e9216caed11174f9
+      internalID: -1328469796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBoss_14
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1071.3334
+        width: 450
+        height: 267.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa8acc53969bec4188dbd099fdc21f1
+      internalID: -1795762568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBoss_15
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1071.3334
+        width: 450
+        height: 267.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69d5c0146bc1bb4ebcb780b13363567
+      internalID: -344644011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBoss_16
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 1071.3334
+        width: 450
+        height: 267.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd16a7821d5040f42afa1a2e09e45d4b
+      internalID: 1453707464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBoss_17
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1071.3334
+        width: 450
+        height: 267.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6610fcfaa567247438de05298b3c7a05
+      internalID: -1863913725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBoss_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 804.3334
+        width: 450
+        height: 267.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10aae5ad0825ee4ea5592d0d6d27d0d
+      internalID: 753692224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBoss_19
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 804.3334
+        width: 450
+        height: 267.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99254268d0adf6438c7c3887c71d947
+      internalID: -2013882213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBoss_20
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 804.3334
+        width: 450
+        height: 267.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc7a61fa1b4d134e824c9f0f617e39d
+      internalID: -871586903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBoss_21
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 804.3334
+        width: 450
+        height: 267.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7f584df589a3f4382c406f3e9b6213
+      internalID: -1576447287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBoss_22
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 804.3334
+        width: 450
+        height: 267.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56294eaa282cc2d47ac054e1fd0bfb25
+      internalID: -1711146561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBoss_23
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 804.3334
+        width: 450
+        height: 267.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3e0aeb78421184294ab01b7100de6a
+      internalID: -1709103253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBoss_24
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 804.3334
+        width: 450
+        height: 267.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9868aa49c046689448de51c434c2366d
+      internalID: 1873881966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBoss_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 537.3334
+        width: 450
+        height: 267.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c806bf550bc413e46b236c177e462a05
+      internalID: 1207214181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBoss_26
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 537.3334
+        width: 450
+        height: 267.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3d9303109f6b14094a215a53e3952f
+      internalID: 2093291525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBoss_27
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 537.3334
+        width: 450
+        height: 267.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee8592406faf1c40aca6dcb79b16c0b
+      internalID: 1447460945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBoss_28
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 537.3334
+        width: 450
+        height: 267.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f2596343efddd468e29efd081ec618
+      internalID: 1535900440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBoss_29
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 537.3334
+        width: 450
+        height: 267.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec63f77a6fd04f449c89998f6145470
+      internalID: -1506402191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBoss_30
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 537.3334
+        width: 450
+        height: 267.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39df11a095f99f14b83f583f765c3430
+      internalID: -1106391458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBoss_31
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 537.3334
+        width: 450
+        height: 267.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540f69ee1773b4a4d8bb071db4aa1559
+      internalID: 393716434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBoss_32
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 537.3334
+        width: 450
+        height: 267.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd22dba2d31b344cad5bd3038c5916d
+      internalID: 439760503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBoss_33
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 537.3334
+        width: 450
+        height: 267.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be95ed2416705944d90e51ce4402465a
+      internalID: 821770731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBoss_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270.33334
+        width: 450
+        height: 267.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2059b0d17419d1f4fa28c81b32555540
+      internalID: -508835139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBoss_35
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 270.33334
+        width: 450
+        height: 267.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017a4f51c18914543bbed2b79b1df800
+      internalID: 2066596634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBoss_36
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 270.33334
+        width: 450
+        height: 267.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac915a46cea36534d89c0b42df09bcbe
+      internalID: -1617287710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBoss_37
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 270.33334
+        width: 450
+        height: 267.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b690c9445b6e19d4fbe7bcd7d4d32e35
+      internalID: -2131204220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBoss_38
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 270.33334
+        width: 450
+        height: 267.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa080cf48e414f045baf190a48e0792e
+      internalID: 370254095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBoss_39
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 270.33334
+        width: 450
+        height: 267.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326ac6fcbd4597a4b8b5fad5fd5a711e
+      internalID: -31689628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBoss_40
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 270.33334
+        width: 450
+        height: 267.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65b0df7770609b4d92b426fb833ee21
+      internalID: -443984370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBoss_41
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 270.33334
+        width: 450
+        height: 267.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359f2b225787fcf4280da254e66e8d99
+      internalID: 1116626710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBoss_42
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 270.33334
+        width: 450
+        height: 267.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8789b8260e20fe4478a4158cfb577d13
+      internalID: 1163925420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBoss_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3.3333435
+        width: 450
+        height: 267.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c51b1f1360cc04f9f23a3b87200d0d
+      internalID: 408506700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBoss_44
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 3.3333435
+        width: 450
+        height: 267.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0981dda518b76e47bd1f27c26ff0f42
+      internalID: 920842807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBoss_45
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 3.3333435
+        width: 450
+        height: 267.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9910c3ffcf48be4392aa52ecb5977bb
+      internalID: -1463508002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBoss_46
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 3.3333435
+        width: 450
+        height: 267.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5b07d4dc9024d4292b7e7e13140420
+      internalID: 1196669891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBoss_47
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 3.3333435
+        width: 450
+        height: 267.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9816913ba5759a4ba3c1109227f0c66
+      internalID: -106887647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBoss_48
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 3.3333435
+        width: 450
+        height: 267.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1904c9ba718f14393d5d4216489636
+      internalID: -897796719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GreenBoss_46: 1196669891
+      GreenBoss_7: 11347489
+      GreenBoss_35: 2066596634
+      GreenBoss_41: 1116626710
+      GreenBoss_13: -1328469796
+      GreenBoss_34: -508835139
+      GreenBoss_31: 393716434
+      GreenBoss_22: -1711146561
+      GreenBoss_43: 408506700
+      GreenBoss_27: 1447460945
+      GreenBoss_8: -1009600943
+      GreenBoss_40: -443984370
+      GreenBoss_15: -344644011
+      GreenBoss_21: -1576447287
+      GreenBoss_5: -1260798133
+      GreenBoss_25: 1207214181
+      GreenBoss_4: 1882309835
+      GreenBoss_10: 1581018544
+      GreenBoss_19: -2013882213
+      GreenBoss_18: 753692224
+      GreenBoss_28: 1535900440
+      GreenBoss_47: -106887647
+      GreenBoss_38: 370254095
+      GreenBoss_17: -1863913725
+      GreenBoss_9: 1390368451
+      GreenBoss_16: 1453707464
+      GreenBoss_42: 1163925420
+      GreenBoss_39: -31689628
+      GreenBoss_48: -897796719
+      GreenBoss_26: 2093291525
+      GreenBoss_20: -871586903
+      GreenBoss_6: -294187165
+      GreenBoss_33: 821770731
+      GreenBoss_14: -1795762568
+      GreenBoss_11: 442681915
+      GreenBoss_3: -349697146
+      GreenBoss_2: 1435317733
+      GreenBoss_30: -1106391458
+      GreenBoss_29: -1506402191
+      GreenBoss_24: 1873881966
+      GreenBoss_1: 1677151167
+      GreenBoss_12: -960505244
+      GreenBoss_32: 439760503
+      GreenBoss_36: -1617287710
+      GreenBoss_44: 920842807
+      GreenBoss_37: -2131204220
+      GreenBoss_23: -1709103253
+      GreenBoss_0: 306448722
+      GreenBoss_45: -1463508002
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

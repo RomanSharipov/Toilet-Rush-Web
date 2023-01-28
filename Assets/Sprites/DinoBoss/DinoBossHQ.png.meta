@@ -1,0 +1,1191 @@
+fileFormatVersion: 2
+guid: adab995757fe45a43a87324f50de2f97
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 48
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DinoBossHQ_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2019.1666
+        width: 450
+        height: 403.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e12d98a6f448c4096f16a01be2c428
+      internalID: -1738092223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoBossHQ_1
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 2019.1666
+        width: 450
+        height: 403.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710711f0c153cd24f96cd31a5185d831
+      internalID: -386884271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoBossHQ_2
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 2019.1666
+        width: 450
+        height: 403.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186171017aec7554399f2da44021abec
+      internalID: 610196473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoBossHQ_3
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 2019.1666
+        width: 450
+        height: 403.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00020fde99bde64b82bd8c8530495b2
+      internalID: -1132915777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoBossHQ_4
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2019.1666
+        width: 450
+        height: 403.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40ca26fe4aa55741899d1bff87daafe
+      internalID: 1080265974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoBossHQ_5
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 2019.1666
+        width: 450
+        height: 403.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f77d3cf03b25c444ae9aa90f42abc4b
+      internalID: 2078992081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoBossHQ_6
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 2019.1666
+        width: 450
+        height: 403.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6dc4026240046e4bb8cdbe9616a250c
+      internalID: -1065915931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoBossHQ_7
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 2019.1666
+        width: 450
+        height: 403.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c4f3dfa1905b64c800db03697881a5
+      internalID: 1688553442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoBossHQ_8
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2019.1666
+        width: 450
+        height: 403.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca901640cab8be840bc80da324b59f8a
+      internalID: 790372258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoBossHQ_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1616.1666
+        width: 450
+        height: 403.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2142b75b6bead07408bd0c9088fcfda8
+      internalID: -989525068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoBossHQ_10
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1616.1666
+        width: 450
+        height: 403.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adef248d14b684144a210ac75658b518
+      internalID: 1002502930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoBossHQ_11
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1616.1666
+        width: 450
+        height: 403.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b8a7ddd01124249afbac9d33799eea
+      internalID: 797073989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoBossHQ_12
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1616.1666
+        width: 450
+        height: 403.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba59decb40632a54ea21ba8dc953db11
+      internalID: -1232451567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoBossHQ_13
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1616.1666
+        width: 450
+        height: 403.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7861fae878b380c4a95c3f6ebcd9c1f0
+      internalID: -1337271307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoBossHQ_14
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1616.1666
+        width: 450
+        height: 403.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41e72e3ce8f5dd468810c0d2a6e828c
+      internalID: -1682732999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoBossHQ_15
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1616.1666
+        width: 450
+        height: 403.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2438a87b29111e94f909aff3083cf84c
+      internalID: 300541515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoBossHQ_16
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 1616.1666
+        width: 450
+        height: 403.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7204e007674499b4b81ba40d828f0ada
+      internalID: -1998730222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoBossHQ_17
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1616.1666
+        width: 450
+        height: 403.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595a5f077e4affe4d8beef87f00cf379
+      internalID: -687693096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoBossHQ_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1213.1666
+        width: 450
+        height: 403.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74db4418b40cd784b92879db1b4f5b0d
+      internalID: -1081631682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoBossHQ_19
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1213.1666
+        width: 450
+        height: 403.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1d37f951d9f4b4b9aa1c52089dd983
+      internalID: -202291248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoBossHQ_20
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1213.1666
+        width: 450
+        height: 403.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443d2b5744ea84b45a462d279644dd7e
+      internalID: 4987448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoBossHQ_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 810.1666
+        width: 450
+        height: 403.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fcf1fa0dcce0c46847cd8431789cf6
+      internalID: -1099474910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoBossHQ_22
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 810.1666
+        width: 450
+        height: 403.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896102587e4efe14f8c1a139757cc17a
+      internalID: -1172073861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoBossHQ_23
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 810.1666
+        width: 450
+        height: 403.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f87530d6fc7ad42acf50dc5fc37f88
+      internalID: -1643294018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoBossHQ_24
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 810.1666
+        width: 450
+        height: 403.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21092c51a47ef74498709bb80807faf
+      internalID: -1670170213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoBossHQ_25
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 810.1666
+        width: 450
+        height: 403.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c8a2bd706a8bf45be7311efe90a004
+      internalID: 76296414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoBossHQ_26
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 810.1666
+        width: 450
+        height: 403.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d53e58ad7e6894797215fe3691e425
+      internalID: -246307492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoBossHQ_27
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 810.1666
+        width: 450
+        height: 403.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b29638af2614a54eb923f978662fdf0
+      internalID: 784502639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoBossHQ_28
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 810.1666
+        width: 450
+        height: 403.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e19689a5df918a488ce5a68a5ede7ef
+      internalID: -1188379482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoBossHQ_29
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 810.1666
+        width: 450
+        height: 403.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a273ac64241cf428a43ae95330f5df
+      internalID: 878389792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoBossHQ_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 407.16666
+        width: 450
+        height: 403.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6371eed915402c64590aa781bfcbfdcb
+      internalID: 95206213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoBossHQ_31
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 407.16666
+        width: 450
+        height: 403.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395911ebe2ff5134aaa7b5469b7053a2
+      internalID: -72831398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoBossHQ_32
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 407.16666
+        width: 450
+        height: 403.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05033a9bbf3121d43807fca846637dd4
+      internalID: -1022630248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoBossHQ_33
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 407.16666
+        width: 450
+        height: 403.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39aff8edf4156441a417f7aa007e2ef
+      internalID: 1518863035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoBossHQ_34
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 407.16666
+        width: 450
+        height: 403.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacfbcced1af5a9448def88fcb21dcb2
+      internalID: -259316439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoBossHQ_35
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 407.16666
+        width: 450
+        height: 403.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f299fe4550c63594f9838f1c9e3c4273
+      internalID: 337175316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoBossHQ_36
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 407.16666
+        width: 450
+        height: 403.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a2ffd651c8611429c024d4fe31e9bf
+      internalID: 692108919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoBossHQ_37
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 407.16666
+        width: 450
+        height: 403.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da217a69e8b8174d8b8108f7cc09ac1
+      internalID: -197567892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoBossHQ_38
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 407.16666
+        width: 450
+        height: 403.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5ab537c22e8fc4f9d7894434945188
+      internalID: 132547921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoBossHQ_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4.1666565
+        width: 450
+        height: 403.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90482747bd690a4d9a731b0ca0bffbd
+      internalID: -1222296628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoBossHQ_40
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 4.1666565
+        width: 450
+        height: 403.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca876198bc6da04b90329eb51d76e58
+      internalID: -2055661537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoBossHQ_41
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 4.1666565
+        width: 450
+        height: 403.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e13c4e642b5f14e9a4f7fb3c4af5fa
+      internalID: -75146970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoBossHQ_42
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 4.1666565
+        width: 450
+        height: 403.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5901d201bac9d4bbc4a92baab8169b
+      internalID: -1637378227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoBossHQ_43
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 4.1666565
+        width: 450
+        height: 403.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc4fb0d9fbc0a04c96003ec36c006ad
+      internalID: 92486956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoBossHQ_44
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 4.1666565
+        width: 450
+        height: 403.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd768a18b447844d85418fdafb74388
+      internalID: 1483671520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoBossHQ_45
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 4.1666565
+        width: 450
+        height: 403.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1c8a313ed1b884db77abe04a9054f4
+      internalID: -65398454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoBossHQ_46
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 4.1666565
+        width: 450
+        height: 403.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fa9255e30279e4a81b843866dcddbc
+      internalID: -1813630962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoBossHQ_47
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 4.1666565
+        width: 450
+        height: 403.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b641fbbac6a309043a4061666d6bfc2a
+      internalID: 158624866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DinoBossHQ_39: -1222296628
+      DinoBossHQ_32: -1022630248
+      DinoBossHQ_43: 92486956
+      DinoBossHQ_10: 1002502930
+      DinoBossHQ_15: 300541515
+      DinoBossHQ_24: -1670170213
+      DinoBossHQ_17: -687693096
+      DinoBossHQ_42: -1637378227
+      DinoBossHQ_9: -989525068
+      DinoBossHQ_12: -1232451567
+      DinoBossHQ_4: 1080265974
+      DinoBossHQ_2: 610196473
+      DinoBossHQ_6: -1065915931
+      DinoBossHQ_3: -1132915777
+      DinoBossHQ_19: -202291248
+      DinoBossHQ_7: 1688553442
+      DinoBossHQ_13: -1337271307
+      DinoBossHQ_36: 692108919
+      DinoBossHQ_28: -1188379482
+      DinoBossHQ_27: 784502639
+      DinoBossHQ_25: 76296414
+      DinoBossHQ_0: -1738092223
+      DinoBossHQ_40: -2055661537
+      DinoBossHQ_22: -1172073861
+      DinoBossHQ_37: -197567892
+      DinoBossHQ_30: 95206213
+      DinoBossHQ_5: 2078992081
+      DinoBossHQ_11: 797073989
+      DinoBossHQ_41: -75146970
+      DinoBossHQ_1: -386884271
+      DinoBossHQ_26: -246307492
+      DinoBossHQ_47: 158624866
+      DinoBossHQ_8: 790372258
+      DinoBossHQ_16: -1998730222
+      DinoBossHQ_45: -65398454
+      DinoBossHQ_38: 132547921
+      DinoBossHQ_44: 1483671520
+      DinoBossHQ_18: -1081631682
+      DinoBossHQ_31: -72831398
+      DinoBossHQ_35: 337175316
+      DinoBossHQ_21: -1099474910
+      DinoBossHQ_29: 878389792
+      DinoBossHQ_20: 4987448
+      DinoBossHQ_23: -1643294018
+      DinoBossHQ_33: 1518863035
+      DinoBossHQ_34: -259316439
+      DinoBossHQ_14: -1682732999
+      DinoBossHQ_46: -1813630962
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
